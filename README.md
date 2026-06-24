@@ -180,11 +180,11 @@ flutter run
 ---
 # 👥 Team Members
 
-### 🎨 Frontend Developer
-**Akshay K S**
+🎨 Frontend Developer
+Akshay K S
 
-### ⚙️ Backend Developer
-**Akshara P D**
+⚙️ Backend Developer
+Akshara P D
 ---
 
 # 📜 License
