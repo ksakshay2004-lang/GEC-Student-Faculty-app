@@ -178,14 +178,13 @@ flutter run
 * Cloud Database Integration
 
 ---
+# 👥 Team Members
 
-# 👩‍💻 Author
+### 🎨 Frontend Developer
+**Akshay K S**
 
+### ⚙️ Backend Developer
 **Akshara P D**
-
-* GitHub: https://github.com/aksharadileep
-* LinkedIn: https://linkedin.com/in/akshara-dileep-005-
-
 ---
 
 # 📜 License
