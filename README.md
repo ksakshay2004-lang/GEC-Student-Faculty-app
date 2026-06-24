@@ -165,9 +165,7 @@ flutter run
 * Provide meaningful performance analytics
 * Simplify administrative operations
 
----
-
-# 🌟 Future Enhancements
+-# 🌟 Future Enhancements
 
 * Attendance Management
 * Notification System
@@ -178,15 +176,9 @@ flutter run
 * Cloud Database Integration
 
 ---
-# 👥 Team Members
+🎨 Frontend Developer Akshay K S
 
-🎨 Frontend Developer
-Akshay K S
+⚙️ Backend Developer Akshara P D
 
-⚙️ Backend Developer
-Akshara P D
----
 
-# 📜 License
-
-This project is developed for educational and academic management purposes.
+___________________________________________________________________________________________________________________________________________________________________
